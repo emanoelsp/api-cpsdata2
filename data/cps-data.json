@@ -1,0 +1,79 @@
+[
+  {
+    "id": "CPS001",
+    "tipo": "Sensor",
+    "localizacao": "Linha1",
+    "status": "Ativo",
+    "velocidade": 100,
+    "protocolo": "MQTT",
+    "temperatura": 21.63,
+    "pressao": 1005.24,
+    "dataMedicao": "2024-12-13T00:09:25.003Z"
+  },
+  {
+    "id": "CPS002",
+    "tipo": "Atuador",
+    "localizacao": "Linha2",
+    "status": "Inativo",
+    "velocidade": 0,
+    "protocolo": "OPC-UA",
+    "temperatura": 22.81,
+    "pressao": 1002.04,
+    "dataMedicao": "2024-12-13T00:09:25.003Z"
+  },
+  {
+    "id": "CPS003",
+    "tipo": "Atuador",
+    "localizacao": "Linha1",
+    "status": "Ativo",
+    "velocidade": 120,
+    "protocolo": "HTTPS",
+    "temperatura": 23.34,
+    "pressao": 1003.86,
+    "dataMedicao": "2024-12-13T00:09:25.003Z"
+  },
+  {
+    "id": "CPS004",
+    "tipo": "Atuador",
+    "localizacao": "Linha1",
+    "status": "Ativo",
+    "velocidade": 130,
+    "protocolo": "HTTPS",
+    "temperatura": 23.22,
+    "pressao": 1009.63,
+    "dataMedicao": "2024-12-13T00:09:25.003Z"
+  },
+  {
+    "id": "CPS005",
+    "tipo": "Sensor",
+    "localizacao": "Linha2",
+    "status": "Ativo",
+    "velocidade": 130,
+    "protocolo": "HTTPS",
+    "temperatura": 23.22,
+    "pressao": 1000.75,
+    "dataMedicao": "2024-12-13T00:09:25.003Z"
+  },
+  {
+    "id": "CPS006",
+    "tipo": "Atuador",
+    "localizacao": "Linha1",
+    "status": "Ativo",
+    "velocidade": 130,
+    "protocolo": "HTTPS",
+    "temperatura": 20.24,
+    "pressao": 1006.35,
+    "dataMedicao": "2024-12-13T00:09:25.003Z"
+  },
+  {
+    "id": "CPS7",
+    "tipo": "Atuador",
+    "localizacao": "Linha2",
+    "status": "Ativo",
+    "velocidade": "200",
+    "protocolo": "HTTP",
+    "temperatura": 21.25,
+    "pressao": 1003.06,
+    "dataMedicao": "2024-12-13T00:09:25.003Z"
+  }
+]
